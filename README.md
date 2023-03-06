@@ -1,5 +1,4 @@
 # rishisahoo.github.io
 
-👋 Hi there, I'm a coding wizard 🧙‍♂️ 
-with a passion for building elegant solutions to complex problems 💻.
-When I'm not crafting code, Im sleeping!!!
+💻 Tech-savvy coder with a passion for creating innovative solutions using Swift, Html, and Python. 
+Check out my Github for projects and contributions! 🔥
