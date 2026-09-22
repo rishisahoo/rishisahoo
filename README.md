@@ -1,3 +1,3 @@
-# satwik-sahoo.github.io
+# rishi-sahoo.github.io
 
 Check out my Digital Portfolio for projects and contributions! 🔥
